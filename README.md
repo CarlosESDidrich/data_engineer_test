@@ -1,6 +1,9 @@
 <img src="https://cdn.eleflow.com.br/ef-web/wp-content/uploads/2016/08/21181642/Eleflow.png" alt="Eleflow BigData" width="200"/>
 
 # Data engineering capstone
+Sobre os arquivos:
+- DataEngonnerTest (Pasta inteira do projeto zipada)
+- VRA, AIC_CIA, Aerodromos (Dados zipados devido o tamanho)
 
 ## BigData Airlines
 
